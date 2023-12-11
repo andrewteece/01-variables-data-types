@@ -18,7 +18,7 @@ console.log(age);
 // firstname = lowercase
 
 // We can re-assign `let` variables. If you change `age` to use `const`, you will get an error
-age = 31;
+age = 54;
 console.log(age);
 
 // With let, we can declare a value without assigning a value
@@ -43,10 +43,10 @@ arr.push(5);
 console.log(arr);
 
 const person = {
-  name: 'Brad',
+  name: 'Andrew',
 };
-person.name = 'John';
-person.email = 'brad@gmail.com';
+person.name = 'Andrew';
+person.email = 'andrew@gmail.com';
 console.log(person);
 
 // Declare multiple values at once

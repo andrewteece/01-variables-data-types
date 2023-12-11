@@ -1,9 +1,13 @@
 // String
 const firstName = 'Sara';
 
+
+
 // Number
 const age = 30;
 const temp = 98.9;
+
+
 
 // Boolean
 const hasKids = true;
@@ -20,6 +24,8 @@ const id = Symbol('id');
 
 // BigInt
 const n = 9007199254740991n;
+
+console.log(n, typeof n);
 
 // Reference Types
 
